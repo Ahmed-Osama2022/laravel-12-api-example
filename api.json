@@ -1,0 +1,131 @@
+{
+  "data": {
+    "meta": {
+      "title": "About us — Example"
+    },
+    "hero": {
+      "badge": "About us",
+      "title": "We build tools that",
+      "highlight": "get out of the way",
+      "description": "A small, independent team on a simple mission: make everyday work feel lighter. No bloat, no noise — just software that does its job well.",
+      "primaryCta": {
+        "label": "Try the product",
+        "to": "/"
+      },
+      "secondaryCta": {
+        "label": "Say hello"
+      }
+    },
+    "stats": [
+      { "value": "2021", "label": "Founded" },
+      { "value": "12k+", "label": "Happy users" },
+      { "value": "40+", "label": "Countries" },
+      { "value": "99.9%", "label": "Uptime" }
+    ],
+    "mission": {
+      "eyebrow": "Our mission",
+      "title": "Software should feel like a good colleague",
+      "paragraphs": [
+        "Most tools ask for more than they give back: more setup, more tabs, more meetings. We started this company because we believed the opposite was possible — a product that quietly handles the busywork so people can focus on the part only they can do.",
+        "Today that idea is used by teams in more than forty countries. We're still independent, still profitable, and still shipping every single week."
+      ],
+      "quote": {
+        "text": "The best compliment we get is that people forget the product is there. That's the whole design goal.",
+        "initials": "AO",
+        "author": "Amara Okafor",
+        "role": "Co-founder & CEO"
+      }
+    },
+    "valuesSection": {
+      "eyebrow": "What we believe",
+      "title": "Four rules we don't break"
+    },
+    "values": [
+      {
+        "icon": "bolt",
+        "title": "Move fast",
+        "text": "We ship small, focused improvements every week instead of waiting for the perfect release."
+      },
+      {
+        "icon": "clock",
+        "title": "Stay simple",
+        "text": "Great tools get out of the way. We obsess over removing steps, not adding them."
+      },
+      {
+        "icon": "users",
+        "title": "Build together",
+        "text": "Our roadmap is shaped in the open. Customers are our best product managers."
+      },
+      {
+        "icon": "shield",
+        "title": "Earn trust",
+        "text": "Privacy first, no dark patterns, and a clear price. Your data stays yours."
+      }
+    ],
+    "timelineSection": {
+      "eyebrow": "Our story",
+      "title": "From side project to daily habit"
+    },
+    "timeline": [
+      {
+        "year": "2021",
+        "title": "A weekend prototype",
+        "text": "Two friends, one laptop, and a spreadsheet full of complaints about clunky tools."
+      },
+      {
+        "year": "2022",
+        "title": "First 1,000 users",
+        "text": "Launched publicly and grew entirely through word of mouth."
+      },
+      {
+        "year": "2024",
+        "title": "The team grows",
+        "text": "A small remote team across three time zones, still shipping every week."
+      },
+      {
+        "year": "2026",
+        "title": "Here and now",
+        "text": "Over 12,000 teams use the product to do their best work."
+      }
+    ],
+    "teamSection": {
+      "eyebrow": "The people",
+      "title": "Small team, big care",
+      "description": "Remote by default, curious by nature. These are the faces behind the product."
+    },
+    "team": [
+      {
+        "name": "Amara Okafor",
+        "role": "Co-founder & CEO",
+        "initials": "AO",
+        "avatarColor": "rose"
+      },
+      {
+        "name": "Liam Chen",
+        "role": "Co-founder & CTO",
+        "initials": "LC",
+        "avatarColor": "sky"
+      },
+      {
+        "name": "Sofia Marchetti",
+        "role": "Head of Design",
+        "initials": "SM",
+        "avatarColor": "emerald"
+      },
+      {
+        "name": "Noah Williams",
+        "role": "Lead Engineer",
+        "initials": "NW",
+        "avatarColor": "violet"
+      }
+    ],
+    "cta": {
+      "title": "Let's make work feel lighter",
+      "description": "Questions, ideas, or just want to chat? We read every message and usually reply within a day."
+    },
+    "contact": {
+      "email": "hello@example.com",
+      "footerNote": "© 2026 Example Inc. Built with Vue and Tailwind CSS."
+    }
+  }
+}
